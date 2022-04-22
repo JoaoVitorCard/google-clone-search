@@ -27,7 +27,7 @@
 .logo {
     display: block;
     padding-top: 100px;
-    padding-left: 580px;
+    padding-left: 590px;
 }
 
 .src {
@@ -48,4 +48,17 @@
     padding-left: 40px;
 }
 
+.sub {
+    display: block;
+    padding-left: 550px
+}
 
+.lkngf, .lucky{
+    width: 180px;
+    height: 42px;
+    background-color: #303030;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
